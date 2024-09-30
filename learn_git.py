@@ -2,7 +2,7 @@
 input(" Hello Enter your  name: noa")
 
 #2
-print(" elefantis")
+print(" elefadntis")
 
 
 
