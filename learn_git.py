@@ -1,3 +1,12 @@
+#1
+input(" Hello Enter your  name: noa")
 
-print("Hello World")
-print("nnjjjjj")
+#2
+print(" Hello Enter your adress: ness ziona")
+
+
+
+"""
+name = "Name" 
+print(" Hello " , name ," How are you: " )
+"""
