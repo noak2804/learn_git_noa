@@ -2,7 +2,7 @@
 input(" Hello Enter your  name: noa")
 
 #2
-print(" Hello Enter your adress: ness ziona")
+print(" elefant")
 
 
 
